@@ -6,9 +6,9 @@ Magda Cepeda
 Paipa
 # ***Información académica***
 ## Profesión
-Profesora
+Profesora 🏫
 # Pasatiempos
-Leer
+Leer 📚
 
 
 
